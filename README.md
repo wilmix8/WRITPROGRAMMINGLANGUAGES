@@ -202,11 +202,13 @@ g) JAS (NJDOLLAR) Programming  Language(P.L)
 =========================================
 
 
-JAS(NJDOLLAR) is a Most Advanced Programming Language  invented  in  JAVA  and  modified  in  C#.
+JAS(NJDOLLAR) is a Most Advanced Programming Language  invented  in  JAVA  and  modified in  JDollar  at  year  2015
+
+so  it  is   called  as   NJDollar  (meaning like  JDollar) and  C#  at  year  2016.
 
 like OAK is the parent of JAVA P.L.
 
-JAS Researchproject period: (2000- 2007; modified in year 2013 and 2016}
+JAS Researchproject period: (2000- 2007; modified in year 2013,2015, and 2016}
 
 
 JAS  consists  of  SubProgramming Language  known  as  JWEB
