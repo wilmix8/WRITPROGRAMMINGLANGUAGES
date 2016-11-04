@@ -193,11 +193,16 @@ It's  not  P.L  but a  framework  used  in JDollar  Part2.
 
 
 
-g) JAS (NJDOLLAR) Programming  Language(P.L)
 
+
+
+
+
+g) JAS (NJDOLLAR) Programming  Language(P.L)
 =========================================
 
-JAS is a Most Advanced P.L  invented  in  JAVA  and  modified  in  C#.
+
+JAS(NJDOLLAR) is a Most Advanced Programming Language  invented  in  JAVA  and  modified  in  C#.
 
 like OAK is the parent of JAVA P.L.
 
@@ -206,11 +211,7 @@ JAS Researchproject period: (2000- 2007; modified in year 2013 and 2016}
 
 JAS  consists  of  SubProgramming Language  known  as  JWEB
 
-JWEB  is  used  for  remotewebapplication.
-
-
-
-
+JWEB  is  used  for  remotewebapplication
 
 
 JAS is  published  in Github  code is   VERSION 1 
