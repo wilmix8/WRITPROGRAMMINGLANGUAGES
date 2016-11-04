@@ -420,6 +420,26 @@ WSHARP is  published  in Github  code is   VERSION 1
 and  it  will  work  only  in  windows.
 
 
+t)  J@  Programming  Language
+ ==============================
+
+J@ Programming Language  is invented in jdollar for MobileAPPS,walletapps by wilmix jemin j at nov 2016.
+
+J@ is  published  in Github  code is   VERSION 1 
+
+and  it  will  work  only  in  windows.
+
+
+u) RGX  Programming  Language
+===============================
+
+
+RGX is a Programming Language invented in JAS language... RGX is used in world wide like JAS. and it has most powerful Advanced Bussiness.
+
+RGX is  published  in Github  code is   VERSION 1 
+
+and  it  will  work  only  in  windows.
+
 
 
 
@@ -428,8 +448,6 @@ Note:  Unix version  will  be  considered  as version  2  for   JDollar,CDollar 
 be  invented  later  in  year  2017.Only  Version 1 for  all  WRIT  Programming Langauages  is   published   in 
 
 github  and Googlecode. 
-
-
 
 
 
