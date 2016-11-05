@@ -239,7 +239,7 @@ CWEB is  published  in Github  code is   VERSION 1
 and  it  will  work  only  in  windows.
 
 
-i)  ADOLLAR
+i)  ADOLLAR  (SRGX Section)
 ==============
 
 Adollar  (A$)  stands  for  Advanced  Business  Programming Language
@@ -287,7 +287,7 @@ and  it  will  work  only  in  windows.
 
 
 
-k)  JSLASH  Programming Language
+k)  JSLASH  Programming Language (CWEB Section)
 
 ==================================
 
@@ -303,9 +303,9 @@ And it is the Most Advanced P.L at year 2016.
 
 
 
-l)  JAVA1.0 and JDK1.0 Programming Language
+l)  JAVA1.0 and JDK1.0 Programming Language(SRGX SECTION)
 
-==================================
+============================================================
 
 JAVA1.0 is invented  in  CDollar  and  modified  later  in  JAS  P.L  and it  is used  with  cloud computing
 
@@ -323,7 +323,7 @@ and  it  will  work  only  in unix  platform
 
 
 
-m)  JSWORD  Programming Language
+m)  JSWORD  Programming Language (CWEB Section)
 
 ==================================
 
@@ -364,7 +364,7 @@ and  it  will  work  only  in  windows.
 
 
 
-p)  JSTAR Programming Language
+p)  JSTAR Programming Language(SRGX section)
 ================================
 
 
