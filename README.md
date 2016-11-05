@@ -377,9 +377,11 @@ and  it  will  work  only  in  windows.
 
 
 
-q)  JDollarSHARP Programming Language
+q)  JDollarSHARP Programming Language 
    ===================================
 JDollarsharp  is  invented  in  JDollar  and  here  we  use  JAVA runtime.
+
+JDollarsharp  is  part  of  JWEB  section.
 
 JDollarSHARP is  published  in Github  code is   VERSION 1 
 
@@ -394,6 +396,8 @@ r)  J2ee1.0 Programming  Langauage
 ===================================
 
 J2EE1.0 is designed by wilmix jemin j at year 2016  in JDollar  P.L.
+
+JDollarsharp  is  part  of  JWEB  section.
 
 J2EE1.0 is focused on cloud-computing with JAVA3.0 platform.
 
@@ -421,12 +425,13 @@ and  it  will  work  only  in  windows.
 
 
 
-T)  J@  Programming  Language
+T)  JAW  Programming  Language
  ==============================
 
-J@ Programming Language  is invented in jdollar for MobileAPPS,walletapps by wilmix jemin j at nov 2016.
+JAW Programming Language  is invented in jdollar for MobileAPPS,walletapps by wilmix jemin j at nov 2016.
 
-J@ is  published  in Github  code is   VERSION 1 
+JAW is  part of  JDollarPart3.
+JAW is  published  in Github  code is   VERSION 1 
 
 and  it  will  work  only  in  windows.
 
