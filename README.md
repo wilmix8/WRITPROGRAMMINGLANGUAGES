@@ -484,6 +484,14 @@ be  invented  later  in  year  2017.Only  Version 1 for  all  WRIT  Programming 
 github  and Googlecode. 
 
 
+Note:
+======
+
+JDollarSection is about Advanced Programming Languages like JDollar,J2ee2,J2ee3,JSAUCER, NJDOLLAR(JAS).
+
+jittechsection1 in google code is  otherwise  known   as  SRGX  section.
+
+jitsection2 in google  code  is  otherwise  known  as  CWEB Section
 
 
 
