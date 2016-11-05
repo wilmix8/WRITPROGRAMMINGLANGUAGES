@@ -226,7 +226,7 @@ and  it  will  work  only  in  windows.
 h)  CWEB Section Programming Languages
 =====================================
 
-CWEB  consists  of  Programming Languages  like  C# ,ARROW#, WEB1.0, 
+CWEB (or  jitsection2 in google  code ) consists  of  Programming Languages  like  C# ,ARROW#, WEB1.0, 
 
 WEB2.0,WEB3.0, and  so -on 
 
@@ -452,7 +452,7 @@ and  it  will  work  only  in  windows.
 v)  SRGX  SECTION  Programming Languages
 ============================================
 
-SRGX Section is about CWEB(CDollar  Web for  remote  webpapplication), 
+SRGX (jittechsection1  in  google code) Section is about CWEB(CDollar  Web for  remote  webpapplication), 
 
 CHWEB(otherwise  known  as  GDollar  web for  remote  webapplication) 
 
