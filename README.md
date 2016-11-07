@@ -125,9 +125,9 @@ d) JDollar  Programming  Language
 
 JDollar project took place from year 2009 to
 2013. And it is invented at year 2013. And modified in C/C++ And completly invented at year 2014.
-It is invented by wilmix jemin j at CH$ and C/C++ Technology.
+It is invented by wilmix jemin j at C/C++ Technology.
 
-and  later  modified  in  C#  and  CHDollar  language  again  in  year 2016.
+and  later  modified  in  C#  and  JAVA  in  year 2016.
 
 
 JDollar  P.L  consists  of   3  types  they  are
