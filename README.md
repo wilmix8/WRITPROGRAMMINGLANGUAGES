@@ -188,11 +188,13 @@ g) JAS (NJDOLLAR) Programming  Language(P.L)
 
 =========================================
 
-JAS is a Most Advanced P.L  invented  in  JAVA  and  modified  in  C#.
+JAS is a Most Advanced P.L  invented  in  JAVA first and  modified  in  JDOLLAR(JWEB).
 
 like OAK is the parent of JAVA P.L.
 
-(JAS is  first invented  in jAVA ,since  java has  some  demerits in class file so it is modified in year 2016  in C# P.L)
+(JAS is  first invented  in jAVA ,since  java has  some  demerits in class file 
+
+so it is modified in year 2016  in JDOLLAR(JWEB) P.L)
 
 
 JAS  consists  of  SubProgramming Language  known  as  JWEB
