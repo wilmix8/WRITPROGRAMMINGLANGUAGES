@@ -143,6 +143,7 @@ Equal  to   combination  of  JAVA  ,  C/C++ , C# , Jstar, CDollar,
 
 so  it is Ranked as Rank Z';The  Advanced  Language  and  common  language.
 
+we can   easily   construct   Remoteserver  for   security  side  than  java.
 
 JDollar  published  in Google  code is   VERSION 1 
 
