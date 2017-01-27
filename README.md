@@ -21,44 +21,19 @@ How  WRIT P.L and  framework  are   invented? How  many  years  took  place?
 
 
 
-A) CDollar Programming Language
-===============================
-
-CDollar  Project  took  many years  from  year  2004  to 2015  to   invent  CDollar language in  C/C++
-
-and  later the  source code is  modified   in  JAVA  and  C#  Language  and  it's  functionalities  are
-
-built  easily.
-
-CDollar  published  in Google  code is   VERSION 1 
-
-and  it  will  work  only  in  windows.
-
-
-Advantages:
-==========
-
-Great  expert   to  design  any   Datastructures.
-
-It  is also used  for  OS  Design.
-
-It  is  used  to contruct Form,bills  ,Reports. 
-
-Mostly  based  on  Java oops,  C/C++ OOPS, C#  Opps  ,  and  Advanced  OOps  concepts.  
-
 
 
 B) GDollar  programming Language
 ===================================
 
 
-GDollar  Project  took  many years  from  year  2006  to 2015  to   invent GDollar language in  CDollar
+GDollar  Project  took  many years  from  year  2006  to 2015  to   invent GDollar language in  C/C++, JAVA.
 
 and  later the  source code is  modified   in    C#  Language  and  it's  functionalities  are
 
 built  easily.
 
-So  C#  is  the  Parent  language  for  GDollar. 
+So  C++, C# ,JAVA  is  the  Parent  languages  for  GDollar. GDollar  p.L  is  a  Big P.l.
 
 GDollar  published  in Google  code is   VERSION 1 and  more   brief  about  GDollar is  available  in  Github tutorials
 
@@ -258,7 +233,7 @@ and  it  will  work  only  in  windows.
 
 
 
-j)  CSLASH Programming Language
+  CSLASH Programming Language
 
 ==================================
 
