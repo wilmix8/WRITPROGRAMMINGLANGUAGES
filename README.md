@@ -336,7 +336,9 @@ be  invented  later  in  year  2017.Only  Version 1 for  all  WRIT  Programming 
 github. 
 
 
+Note: ALL  WRIT remote webapplication  for JDollar,JAS,NSTAR, JSTAR,WEB,SLING
 
+will work without  internet  connection.
 
 
 
