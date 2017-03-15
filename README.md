@@ -10,8 +10,6 @@ WRIT  Programming Languages -Version :1
 
 ALL  WRIT  P.L   is invented   by wilmix jemin j  
 
-he has 9+ Years  exp  in IT field.
-
 and  has  Experience  in various  technologies  like java ,C/c++, Dotnet.
 
 
