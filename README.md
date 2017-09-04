@@ -3,6 +3,13 @@
 
 It  is  meant  for  WRIT  Section   Programming Languages 
 
+All  Writprogramminglanguage is  about  1 percentage complete 
+
+remaining  99%  Wilmix solomon  Writprogramminglanguage is  kept  
+
+secret   and  it  will   come  after  2020 is  said  to  be  real
+
+wilmix  solomon  programminglanguages.
 
 
 WRIT  Programming Languages -Version :1
